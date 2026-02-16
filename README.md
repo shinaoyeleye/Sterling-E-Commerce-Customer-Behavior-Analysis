@@ -39,6 +39,13 @@ The dashboard enables quick understanding of customer behavior and sales pattern
 •	Data modeling and relationships
 •	DAX measure creation
 •	Data visualization and dashboard design
-•	Business insight generation
+•	Business insight generation.
+
+## Author
+
+**Shina Oyeleye**  
+Aspiring Data Analyst | Business Intelligence Enthusiast  
+Open to entry-level Data Analyst & BI opportunities
+
 
 
